@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maury020653
 - 👀 I’m interested in technology and programming
-- 🌱 I’ am currently semi senior developed in reactJs, NodeJs, Javascript
+- 🌱 I’ am currently a semi senior developer in reactJs, NodeJs, Javascript
 - 💞️ I’m looking to collaborate on reactJs, NodeJs, Javascript
 
 <!---
